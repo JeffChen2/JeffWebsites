@@ -373,7 +373,7 @@ h1{
 .c3-pic{
 	width: 30rem;
 }
-@media screen and (max-width: 925px) {
+@media screen and (max-width: 1200px) {
 	.c3-cards{
 		flex-direction: column;
 		justify-content: space-between;
